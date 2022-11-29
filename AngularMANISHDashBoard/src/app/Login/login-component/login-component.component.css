@@ -1,0 +1,14 @@
+.gradient-custom {
+    background: linear-gradient(to right, rgb(234, 195, 69), rgb(155, 181, 5))
+    
+    } 
+container {
+    background-color: #bec985;
+}
+h2{
+    padding: 50px;
+    text-align: center;
+    background-color: #ea390d;
+    color: white;
+
+}
